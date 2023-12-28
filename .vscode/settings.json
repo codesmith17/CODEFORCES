@@ -1,5 +1,6 @@
 {
   "files.associations": {
+    "*.embeddedhtml": "html",
     "*.ejs": "html",
     "iostream": "cpp",
     "ostream": "cpp",
@@ -61,7 +62,8 @@
     "xlocmon": "cpp",
     "xlocnum": "cpp",
     "xloctime": "cpp",
-    "xtr1common": "cpp"
+    "xtr1common": "cpp",
+    "unordered_set": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled",
   "cph.general.onceMaintainerMessage": false
